@@ -12,7 +12,7 @@ That being said, there are a few other ways your data is used.
 
 ## Chrome Storage API
 
-Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Examples of data stored this way might include your initials for the [B-Roll Credit Copier](https://chrome.google.com/webstore/detail/b-roll-credit-copier/gnndiaoenmcmkcghlgkdnkdilnhoheog?hl=en-US) or information about if and when you agreed to the privacy policy. Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it. 
+Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Examples of data stored this way might include your saved settings for the [Netflix Toolbox](https://chromewebstore.google.com/detail/netflix-toolbox-intro-ski/dmkiddpcmlmbnboamgiliamighcomgpk) or information about if and when you agreed to the privacy policy. Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it. 
 
 ## Changes to the Privacy Policy
 
